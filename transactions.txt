@@ -1,0 +1,16 @@
+transaction Date: 06/10/2023 20:45:32
+Customer Name: Someone
+Total Amount: 1500.0
+Discount: 0.0
+SGST: 0.0
+CGST: 0.0
+Invoice Total: 1500.0
+---
+transaction Date: 06/10/2023 20:46:07
+Customer Name: someone 2
+Total Amount: 480.0
+Discount: 0.0
+SGST: 0.0
+CGST: 0.0
+Invoice Total: 480.0
+---
